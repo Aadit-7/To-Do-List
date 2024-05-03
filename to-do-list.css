@@ -10,18 +10,11 @@
   font-size: 20px;
 }
 
-.toDo {
-  /* background-color: yellow; */
-}
 .toDo h1 {
   font-family: sans-serif;
   font-weight: 800;
   padding: 17px 34px;
   margin: 0 34px;
-}
-
-.notToDo {
-  /* background-color: blue; */
 }
 
 .notToDo h1 {
